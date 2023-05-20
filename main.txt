@@ -1,0 +1,15 @@
+shortcuts:
+  ' => ط
+  " => shift + ط
+  comment(#) => ctrl + ظ
+
+lecture 1 (print function, type function, comments):
+  print function: # type(something) => type of something
+    int = integer
+    float = floating point number
+    str = string (' or ")
+    bool = boolean (True or False)
+
+  comments (something computer will ignore it): [Done!]
+    one line (#): from (#) sign to end of line
+    multi line [start = end]: starts: { ''', """ }
